@@ -9,9 +9,9 @@ This project is an internship project where both backend and frontend were devel
 - Order processing and tracking
 
 ## Screens
+<img src="https://github.com/AliCanlier1/E-Commerce-App-ASP.NET-CORE/assets/114236364/7da89956-868b-4a9d-b7f6-aa20c7c41d64" width="400" height="400" />
+<img src="https://github.com/AliCanlier1/E-Commerce-App-ASP.NET-CORE/assets/114236364/79d81bec-12a2-4a69-85af-e7c8e50262e8" width="400" height="400" />
 
-![image1](https://github.com/AliCanlier1/E-Commerce-App-ASP.NET-CORE/assets/114236364/7da89956-868b-4a9d-b7f6-aa20c7c41d64=250x250)
-![image2](https://github.com/AliCanlier1/E-Commerce-App-ASP.NET-CORE/assets/114236364/79d81bec-12a2-4a69-85af-e7c8e50262e8)
 
 ## Technologies Used
 
